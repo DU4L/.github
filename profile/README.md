@@ -6,7 +6,7 @@ Welcome to the space of the DHBW Mannheim CTF Team called DU4L. We are a team bu
 
 If you want to fork or contribute some of our public repositories - just do so! 
 
-Fell free to [connect](#contact) us.
+Fell free to [contact](#contact) us.
 
 
 ### Contact
