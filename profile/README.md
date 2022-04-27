@@ -3,7 +3,7 @@
 
 We are an energetic *Capute-the-Flag* team finding our way through the cyberspace. The team is composed by students at the DHBW Mannheim and graduates.
 
-On this GitHub profile, you will find projects and tools devolved and maintained by us, as well as projects we forked to fit our needs.
+On this GitHub profile, you will find projects and tools devolped and maintained by us, as well as projects we forked to fit our needs.
 
 If you want to fork or contribute to some of our public repositories – just do so!
 
