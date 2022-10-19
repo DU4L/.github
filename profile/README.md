@@ -1,9 +1,9 @@
 # Hi there 👋
 ## Welcome to **DU4L** CTF-Team @DHBW Mannheim
 
-We are an energetic *Capute-the-Flag* team finding our way through the cyberspace. The team is composed by students at the DHBW Mannheim and graduates.
+We are an energetic *Capture-the-Flag* team finding our way through the cyberspace. The team is composed by students at the DHBW Mannheim and graduates.
 
-On this GitHub profile, you will find projects and tools developed and maintained by us, as well as projects we forked to fit our needs.
+On this GitHub profile you will find projects and tools developed and maintained by us, as well as projects we forked to fit our needs.
 
 If you want to fork or contribute to some of our public repositories – just do so!
 
@@ -20,7 +20,7 @@ If you want to fork or contribute to some of our public repositories – just do
 
 ### Contact
 
-Fell free to contact us:
+Feel free to contact us:
 Mail: contact@du4l.org
 
 GPG fingerprint is following soon...
